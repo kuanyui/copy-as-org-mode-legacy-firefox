@@ -1,36 +1,37 @@
-* Copy as Org-mode
+* Copy as Org
 
 Copy the contents in page as Org-mode format.
 
-Based on chitsaou's [[https://github.com/chitsaou/copy-as-markdown][copy-as-markdown]].
+Forked from and based on chitsaou's [[https://github.com/chitsaou/copy-as-markdown][copy-as-markdown]].
 
 ** Requirements
 
 - Firefox 30+
 
-** Implemented Features
+** Features
 
-- Copy all tabs of current window as a Markdown list.
-- Right click on anywhere of a page and copy the page title with URL as Markdown.
-- Right click on a link and copy it as Markdown.
-- Right click on an image and copy it as Markdown.
+- Copy =<table>= as an Org table (single line each cell *currently*).
+- Copy all tabs of current window as a Org list.
+- Right click on anywhere of a page and copy the page title with URL as Org.
+- Right click on a link and copy it as Org.
+- Right click on an image and copy it as Org.
 
 ** TODO
 
+- [ ] Multiple line table cell.
 - [ ] When copying an Image, if it is wrapped by a link, then the copied Markdown should also include that link.
 
 ** Development
 
 1. Install Firefox 30+.
 2. [[https://developer.mozilla.org/en-US/Add-ons/SDK/Tutorials/Installation][Install Firefox Add-ON SDK]] if you haven't installed it.
-3. Run `cfx run` from Terminal
+3. Run =cfx run= from Terminal
 
 ** License
 
 The MIT License
 
-Copyright (c) 2014 Yu-Cheng Chuang
-Copyright (c) 2015 Hiroko
+Copyright (c) 2015 Hiroko (kuanyui)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
