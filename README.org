@@ -1,5 +1,9 @@
 * Copy as Org
 
+#+BEGIN_QUOTE
+Under heavily development, don't use.
+#+END_QUOTE
+
 Copy the contents in page as Org-mode format.
 
 Forked from and based on chitsaou's [[https://github.com/chitsaou/copy-as-markdown][copy-as-markdown]].
@@ -16,7 +20,7 @@ Forked from and based on chitsaou's [[https://github.com/chitsaou/copy-as-markdo
 - Right click on a link and copy it as Org.
 - Right click on an image and copy it as Org.
 
-** TODO
+** Todo
 
 - [ ] Multiple line table cell.
 - [ ] When copying an Image, if it is wrapped by a link, then the copied Markdown should also include that link.
