@@ -2,8 +2,8 @@
   "name": "copy-as-org-mode",
   "title": "Copy as Org-mode",
   "id": "jid1-Yvk3FWXQLSdKUg",
-  "description": " Copy Link, Image and Table as Org-mode Format!",
+  "description": " Copy Link, Image and Table in Page as Org-mode Format!",
   "author": "Hiroko",
   "license": "MIT",
-  "version": "1.0.0"
+  "version": "0.1"
 }
