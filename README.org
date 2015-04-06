@@ -1,8 +1,4 @@
-* Copy as Org
-
-#+BEGIN_QUOTE
-Under heavily development, don't use.
-#+END_QUOTE
+* Copy as Org-Mode
 
 Copy the contents in page as Org-mode format.
 
@@ -11,6 +7,10 @@ Forked from and based on chitsaou's [[https://github.com/chitsaou/copy-as-markdo
 ** Requirements
 
 - Firefox 30+
+
+** Installation
+
+Install [[https://addons.mozilla.org/firefox/addon/copy-as-org-mode/][Copy as Org-mode]] on Firefox Addons.
 
 ** Features
 
@@ -23,7 +23,7 @@ Forked from and based on chitsaou's [[https://github.com/chitsaou/copy-as-markdo
 ** Todo
 
 - [ ] Multiple line table cell.
-- [ ] When copying an Image, if it is wrapped by a link, then the copied Markdown should also include that link.
+- [ ] When copying an Image, if it is wrapped by a link, should also include that link.
 
 ** Development
 
