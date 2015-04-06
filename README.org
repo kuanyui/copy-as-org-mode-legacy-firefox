@@ -10,7 +10,7 @@ Forked from and based on chitsaou's [[https://github.com/chitsaou/copy-as-markdo
 
 ** Installation
 
-Install [[https://addons.mozilla.org/firefox/addon/copy-as-org-mode/][Copy as Org-mode]] on Firefox Addons.
+Install /Copy as Org-mode/ on [[https://addons.mozilla.org/firefox/addon/copy-as-org-mode/][Firefox Addons]].
 
 ** Features
 
