@@ -1,3 +1,8 @@
+#+begin_quote
+This repository has been deprecated and archived because this project is for legacy Firefox (< Firefox 68).
+
+For latest Firefox (WebExtension), please see [[https://github.com/kuanyui/copy-as-org-mode][copy-as-org-mode]].
+#+end_quote
 * Copy as Org-Mode
 
 Copy the contents in page as Org-mode format.
